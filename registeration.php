@@ -39,12 +39,12 @@
   <div class="form-group row">
     <label for="title" class="col-3">To Date:</label>
     <input type="date" class="form-control col-8" id="todate" name='todate'  required>
-  
-  <div class="form-group row">
-    <label for="people" class="col-3">No of people:</label>
-    <input type="int" class="form-control col-8" id="people" name="people" placeholder="Enter people" required>
-   
 
+  </div>
+  <div class="form-group row">
+    <label for="Year" class="col-4">No. of People:</label>
+    <input type="int" class="form-control col-7" id="people"  name='people' placeholder="Enter number of people" required>
+   
   </div>
   <div class="form-check">
     <label class="form-check-label">
