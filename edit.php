@@ -16,7 +16,6 @@ function fetch_data()
 <td>'.$row["gender"].'</td>
 <td>'.$row["fromdate"].'</td>  
 <td>'.$row["todate"].'</td> 
-<td>'.$row["people"].'</td> 
 </tr>  
 ';
     }
@@ -41,7 +40,6 @@ function fetch_data()
                 <th width="1%">Gender</th>
                 <th width="1%">From date</th>
                 <th width="1%">To date</th>
-                <th width="1%">No of people</th>
             </tr>
 
 
