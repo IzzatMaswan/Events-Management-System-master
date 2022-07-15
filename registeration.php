@@ -41,11 +41,6 @@
     <input type="date" class="form-control col-8" id="todate" name='todate'  required>
    
   </div>
-  <div class="form-group row">
-    <label for="Year" class="col-3">No. of People:</label>
-    <input type="int" class="form-control col-8" id="people"  name='people' placeholder="Enter number of people" required>
-   
-  </div>
   <div class="form-check">
     <label class="form-check-label">
       <input type="checkbox" class="form-check-input" required>
