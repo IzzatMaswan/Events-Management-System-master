@@ -32,7 +32,7 @@
   </div>
 
     <div class="form-group row">
-    <label for="title" class="col-3">From Date:</label>
+    <label for="title" class="col-3">Registeration date: </label>
     <input type="date" class="form-control col-8" id="fromdate" name='fromdate'  required>
    
   </div>
