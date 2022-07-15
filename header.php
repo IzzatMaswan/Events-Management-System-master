@@ -2,7 +2,7 @@
 <html>
 <head>
 
-	<title>KLU Event Registration</title>
+	<title>Virtual Run Event</title>
 
 	<meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,10 +11,10 @@
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 </head>
-<body style="background-image: url(https://kluniversity.in/images/bg.png);">
+<body style="background-image: url(https://i.pinimg.com/736x/cb/04/72/cb0472b38dbb5c2eb4a1b81ef35fc249.jpg);">
 <nav class="navbar navbar-expand-lg  navbar-light bg-light">
   <a class="navbar-brand" href="index.php">
-    <img src="https://www.kluniversity.in/images/klulogo5.png" width="40%" height="40%" class="d-inline-block align-top" alt="klu">
+    <img src="https://i.pinimg.com/736x/cb/04/72/cb0472b38dbb5c2eb4a1b81ef35fc249.jpg" width="40%" height="40%" class="d-inline-block align-top" alt="klu">
   </a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
