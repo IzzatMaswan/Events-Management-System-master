@@ -42,7 +42,7 @@
 
   </div>
   <div class="form-group row">
-    <label for="Year" class="col-4">No. of People:</label>
+    <label for="Year" class="col-4">Distance:</label>
     <input type="int" class="form-control col-7" id="people"  name='people' placeholder="Enter number of people" required>
    
   </div>

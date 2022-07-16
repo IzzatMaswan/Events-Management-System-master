@@ -43,10 +43,6 @@ s0.parentNode.insertBefore(s1,s0);
             <h1>Come and join virtual run</h1>
             <p>
                 Come on register now! 
-                Come on Run on 20/Ogos/2022
-                Dateline registeration is on 20/July/2022 Come on join fast.
-                Our theme is Tecno Run 
-                
             </p>
             
             <a href="registeration.php" class="btn">Register Here <span class="angle_arrow"><i class="fa fa-angle-right" aria-hidden="true"></i></span></a> </div>
